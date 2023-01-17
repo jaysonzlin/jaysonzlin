@@ -1,7 +1,11 @@
-### Hi there 👋
+### 👋 Hi, I'm Jayson  
+
+- 🌱 I’m currently learning about **startups, machine learning, and full stack development**
+- 🪂 I'm also down to skydive, 🍜 try good food, and 🔭 gaze at stars
+- 📫 Reach me at **jlin3@college.harvard.edu**
 
 <!--
-**jaysonzlin/jaysonzlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Astro9811/Astro9811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
