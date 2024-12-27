@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Jayson  
 
-- 🌱 I’m currently learning about **startups, machine learning, and full stack development**
+- 🌱 I’m currently learning about **robotics, startups, machine learning, and full stack development**
 - 🪂 I'm also down to skydive, 🍜 try good food, and 🔭 gaze at stars
 - 📫 Reach me at **jlin3@college.harvard.edu**
 
