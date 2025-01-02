@@ -11,9 +11,9 @@ I'm a student originally from southwest Georgia who enjoys building things. Curr
 ## Some topics that interest me
 
 - robotics, autonomous systems, cognitive intelligence
-- startups, entrepreneurship, continuous innovation
 - machine learning, reinforcement learning, generative AI
 - full stack development, frameworks, cloud platforms, and database systems
+- startups, entrepreneurship, continuous innovation
 
 ## Some technologies I work with
 ![Python](https://img.shields.io/badge/python-ffd43b?logo=python&style=for-the-badge)
